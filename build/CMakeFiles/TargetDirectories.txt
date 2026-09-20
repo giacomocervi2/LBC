@@ -1,4 +1,0 @@
-/home/cervig/geant4_LBC/build/CMakeFiles/rebuild_cache.dir
-/home/cervig/geant4_LBC/build/CMakeFiles/edit_cache.dir
-/home/cervig/geant4_LBC/build/CMakeFiles/LBC.dir
-/home/cervig/geant4_LBC/build/CMakeFiles/sim.dir
